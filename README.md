@@ -1,4 +1,4 @@
-# React 
+# Pokemon Explorer 
 
 This is the react application to explore pokemons. 
 
