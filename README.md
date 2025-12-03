@@ -3,6 +3,7 @@
 This is the react application to explore pokemons. 
 
 1. **Clone the repository**  
+
    ```bash
    git clone https://github.com/Dorkis/react-pokemon-explorer
    ```
