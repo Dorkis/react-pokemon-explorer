@@ -1,0 +1,21 @@
+.types {
+  display: flex;
+
+  justify-content: center;
+  gap: 5px;
+
+  button {
+    padding: 6px 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    box-sizing: border-box;
+
+    border: 1px solid #242424;
+
+    cursor: pointer;
+  }
+  button:hover {
+    box-sizing: border-box;
+    border: 1px solid #fff;
+  }
+}
